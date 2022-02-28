@@ -1,0 +1,471 @@
+id: P3FFBC1FA
+initial_creation_type: input
+source_metadata:
+  title: Prayers Series
+  language: zh
+  description: 'A selection of prayers or supplications (Skt. adhyeṣaṇa; Tib. gsol
+    ''debs):'
+  volume:
+    f7c3e8b007a7496399cd251dfd14f1f0:
+      title: 'The Ambrosia of Blessings: A Prayer to the Vidyādhara of Unparalleled
+        Kindness, Drodül Pawo Dorje'
+      parent: Adzom Drukpa
+    160fcbba7af64f9898d11d239dfbd89b:
+      title: A Prayer to the Precious Teacher of Incomparable Kindness, Jamyang Lungtok
+        Gyaltsen
+      parent: Akhyuk Rinpoche
+    9b6efdca797844e490d8fa45346a6125:
+      title: Prayer to Buddha Amitābha
+      parent: Amitābha
+    93829489e9214fc18fd4bda2c68e87df:
+      title: A Prayer to Amitāyus
+      parent: Amitāyus
+    2105eecb0e204c578ee21bf08b2404bc:
+      title: A Prayer to Chöying Dorje
+      parent: Apang Tertön
+    b36a89c9a2664750852dc9018cb2efeb:
+      title: A Short Prayer to Chöying Dorje
+      parent: Apang Tertön
+    395e580eb7d449b29e1f8ae3d83efb57:
+      title: Short Prayer to Atiśa
+      parent: Atiśa
+    90ae911b35ae4a7aa05c7a1e17ffddb8:
+      title: Prayer to Avalokiteśvara
+      parent: Avalokiteśvara
+    43be910a63ce49ff86112c5081d54f82:
+      title: 'The Vision: A Prayer to Ārya Avalokiteśvara'
+      parent: Avalokiteśvara
+    f03b40e1236749b487c32590c765d690:
+      title: Vajra Speech of the Prayer to Noble Avalokiteśvara from the Great Siddha
+        Thangtong Gyalpo's Lifetime as Bhikṣu Padma Karpo
+      parent: Avalokiteśvara
+    224cd72847be481ab4f8838f8ee3ca6b:
+      title: Prayer for this Life, the Next and the Bardos
+      parent: Bardos
+    711b09e33843490b8d3f5ec9db3a214e:
+      title: 'The Tambura’s Yearning Song of Devotion: A Prayer Summarizing Khandro
+        Yeshe Tsogyal’s Life and Liberation'
+      parent: Biographical Prayers
+    8fc2c55f8ae14d1d81761e654c53b2e1:
+      title: A Prayer Recalling the Life and Liberation of the Great Perfection Adept
+        Rangjung Dorje (‘Naturally Arisen Vajra’), Jigme Lingpa
+      parent: Biographical Prayers
+    6fbbebde44d04d53afa79d26971e9846:
+      title: Prayer Recalling the Life and Liberation of the Mañjunātha Guru
+      parent: Biographical Prayers
+    e0a32377f8b34e8f800ba7121bf97abe:
+      title: A Prayer Recounting the Lives and Liberation of the Exalted Ḍākinī Mandāravā
+      parent: Biographical Prayers
+    12830d35fd5f48b0a420243a59dad21d:
+      title: Supplication to Lord Buddha together with the Sixteen Arhats
+      parent: Buddha Śākyamuni
+    9bfe599d151e49ff87e17726ddbdd8a3:
+      title: Prayer to the Sovereign of Dharma and Retinue
+      parent: Buddha Śākyamuni
+    41ef7370896a41869572ffd672056863:
+      title: Prayer to Butön Rinpoche
+      parent: Butön Rinchen Drup
+    42775393609649469c5b70b3822691fc:
+      title: Essence and Embodiment of All the Buddhas
+      parent: Clear Light
+    bf326d01d014478d950981dd144d019f:
+      title: Prayer for the Dawning of Clear Light
+      parent: Clear Light
+    e976854405cf4381a849fea3a861cbe2:
+      title: A Prayer to Recognize My Own Faults and Keep in Mind the Objects of Refuge
+      parent: Confession
+    f153bbd460e543efac30c847180e1f73:
+      title: 'Light of Compassion: A Prayer to the Wisdom Ḍākinīs'
+      parent: Ḍākinīs
+    200493647ad24e10a8dc1fb33d6ab78d:
+      title: A Prayer to Dilgo Khyentse Rinpoche
+      parent: Dilgo Khyentse Rinpoche
+    a33e4c60dd21492e93c278a42bdcb50f:
+      title: A Prayer to Kyabje Dilgo Khyentse Rinpoche
+      parent: Dilgo Khyentse Rinpoche
+    08b4d5a318664055859ae41572a962d4:
+      title: Prayer to Drukpa Kunley
+      parent: Drukpa Kunley
+    0f6b276437774c81ba71d1d0839962d9:
+      title: A Prayer
+      parent: Dudjom Lingpa
+    f62c6eddee824bd08b0b23f9885c4d1d:
+      title: A Prayer to Dudjom Lingpa
+      parent: Dudjom Lingpa
+    fdba3887669f423b969ec4995f301584:
+      title: A Dzogchen Tögal Prayer
+      parent: Dzogchen
+    b9b2ec5208874de8b97529f701f0a3d3:
+      title: A Supplication to Realize the Profound
+      parent: Dzogchen
+    fc3531ea504340b19f1309dfd255d577:
+      title: 'The Pure Three Kāyas Ablaze in Perfect Splendour: A Prayer Based on
+        the Meaning of the Great Perfection'
+      parent: Dzogchen
+    4a7f3411fc43459ab881d76c75c569c1:
+      title: In Praise of the Eight Siddhas
+      parent: Eight Mahāsiddhas
+    6f386681be364276ab7fee47b4d62203:
+      title: Prayer for the Fulfilment of Aspirations
+      parent: Fourteenth Dalai Lama
+    b1bd3c31cec143c399261e6af4d2efbd:
+      title: Prayer to His Holiness the Dalai Lama
+      parent: Fourteenth Dalai Lama
+    99aff148b0d1410c996c0a982e28faec:
+      title: Essence of All the Buddhas of Past, Present and Future
+      parent: General
+    2fc4f785a6b64c73aa54343cab9e1cc5:
+      title: A Prayer to the Vidyādhara Gurus
+      parent: General
+    60c981eeead2470c84f9fc9e7637ec55:
+      title: Prayer to Padmasambhava, Longchenpa and Jigme Lingpa
+      parent: General
+    20916f6dcb4940d2b5a3e07998ad004a:
+      title: Prayer
+      parent: General
+    635c1bb431694da1bdc516d88520cb97:
+      title: Prayer to the Guru
+      parent: General
+    17318092b5024696950a16a7f4d99eee:
+      title: Prayer to Jamyang Khyentse Wangpo, Jamgön Kongtrul and Jamyang Khyentse
+        Chökyi Lodrö
+      parent: General
+    c57c8340162a4212b5247f1650e4f36b:
+      title: Prayer to the Supreme Deities
+      parent: General
+    80903e639a7b4f82bb3174b1db31e0c7:
+      title: Words of Jamyang Khyentse
+      parent: General
+    c09c05590f5e40008029da5d1eb2bcb3:
+      title: Three Prayers from the Earth Pig Year
+      parent: General
+    5452222563c24ae394fbc9480d90436b:
+      title: Prayer to Śāntideva and Dam, Tsang and Jam of Katok
+      parent: General
+    75a90150c2d94352877f63556b00b14b:
+      title: 'The Potent Nectar of Accomplishment: A Prayer and Supplication to the
+        Vidyādhara Gurus of the Three Lineages'
+      parent: General
+    61d4e72b003f41959469faef8388de6d:
+      title: 'The Spontaneous Fulfilment of Wishes: A Daily Prayer to Gesar, King
+        of the Dralas'
+      parent: Gesar
+    92e5eaf1841e423aa582922463b62f73:
+      title: 'The Treasure of Wisdom Illumination: A Prayer to the Omniscient Sun
+        of the Teachings Sonam Senge'
+      parent: Gorampa Sonam Senge
+    ceb682a1ac6146ceabe019ef8203d2b1:
+      title: 'The Tamboura of Devotion: A Prayer to Götsang Gönpo Dorje'
+      parent: Götsang Gönpo Dorje
+    a7f85f23d5c34d4386706a8e6896233f:
+      title: 'The Liberating Guide: A Prayer to Gyalwa Yangönpa'
+      parent: Gyalwa Yangönpa
+    3970ea327e7c45b6a515250b09d3795a:
+      title: Prayer to Gyarong Khandro Dechen Wangmo
+      parent: Gyarong Khandro
+    76bb05e7c8d1410fa9d5f5875972d22f:
+      title: 'The Melodious Speech of Samantabhadra: A Prayer to the Glorious Master
+        Jamgön Kongtrul Thaye'
+      parent: Jamgön Kongtrul
+    f5f85c9752744346b19be0867d573f12:
+      title: Prayer on the Occasion of the Reading Transmission for the Omniscient
+        King of Dharma's Thirteen-Volume Collected Writings
+      parent: Jamyang Gyaltsen
+    c46f1049a3e14979a42ec8d2484a4e05:
+      title: 'The Fresh Utpala: A Prayer to the Great Learned Teacher and Vajra-Holder
+        Jamyang Khyenrab Tayé'
+      parent: Jamyang Khyenrab Tayé
+    c2f2840d534946949d4b80ce9730b7cd:
+      title: 'The Quintessence of Marvellous Nectar: A Prayer Based on the Liberational
+        Life of the Gentle Protector Guru'
+      parent: Jamyang Khyentse Chökyi Lodrö
+    0befe142b7de4c1cbccd4f4635a6b379:
+      title: 'The Swift Bestowal of Blessings: A Prayer to the Glorious Protector
+        Guru'
+      parent: Jamyang Khyentse Chökyi Lodrö
+    9496b77e51744a258a91a1f40d786c35:
+      title: Prayer Composed for Yakzé Tsewang Gyurme
+      parent: Jamyang Khyentse Chökyi Lodrö
+    6dea050b1d2e4a40aedc34fd116b211e:
+      title: Prayer Written for Lama Chödrak
+      parent: Jamyang Khyentse Chökyi Lodrö
+    241a91aed0f740de826b304ed4be5f3f:
+      title: Prayer to Jamyang Khyentse Chökyi Lodrö
+      parent: Jamyang Khyentse Chökyi Lodrö
+    ebd0c7079a784264a6388289230cc5f0:
+      title: Prayer to Jamyang Khyentse Wangpo and Jamyang Khyentse Chökyi Lodrö
+      parent: Jamyang Khyentse Chökyi Lodrö
+    0b702d1a99494688b01ab1251696ccfa:
+      title: 'The Melodious Sound of Gathering Auspiciousness: A Prayer Based on the
+        Liberational Life of the Omniscient Jamyang Khyentse Wangpo'
+      parent: Jamyang Khyentse Wangpo
+    6da4bc99d81149e283e1e315ac469f57:
+      title: Prayer to Jamyang Khyentse Wangpo
+      parent: Jamyang Khyentse Wangpo
+    8eb6b85df9e54088b32862ff3be233ee:
+      title: A Short Prayer Based on the Life and Liberation of the All-Knowing, All-Seeing
+        Jamyang Khyentse Wangpo
+      parent: Jamyang Khyentse Wangpo
+    d6ddbd430e444c599ffe457f87ac8902:
+      title: Prayer to Rigdzin Jatsön Nyingpo
+      parent: Jatsön Nyingpo
+    e5382def66dc45a79549e33ae92857aa:
+      title: 'Devotion that Pierces the Heart: A Prayer to the Omniscient Jigme Lingpa'
+      parent: Jigme Lingpa
+    cfd0e7539c134900bd9484775ad1216d:
+      title: A Prayer to Jowo Rinpoche Combined with Aspirations and a Means to Receive
+        the Four Empowerments
+      parent: Jowo Rinpoche
+    ce1d1d83d05149d5afacc2b15b300016:
+      title: Prayer to the Kagyü Masters
+      parent: Kagyü
+    33a0d1da1a304a54a88931fe9fd40043:
+      title: Prayer to Karmapa Khakyab Dorje
+      parent: Karmapas
+    441e0409b17f44109991c5ed9b92ee90:
+      title: 'The Honey of Devotion: A Prayer to the Garland of Glorious Karmapa Incarnations'
+      parent: Karmapas
+    12ca801325d64f0b9ae7c69a72a7532d:
+      title: Prayer to Karma Palden Khyentse
+      parent: Karsé Kongtrul
+    e0dfdf68c9534fdb910354cf98f180ea:
+      title: Prayer to Khandro Tsering Chödrön
+      parent: Khandro Tsering Chödrön
+    b214b11b40ac4c7abab82aef24966ca4:
+      title: Prayer to Khenchen Jigme Phuntsok
+      parent: Khenchen Jigme Phuntsok
+    2139819c39624742b3eb5ba7d2f4560e:
+      title: 'The Sunlight of Blessings: A Prayer'
+      parent: Khenchen Jigme Phuntsok
+    5c254d9a19e545c49603e8429de996a4:
+      title: 'A Lament of Faith: A Short Remembrance of, and Prayer to, My Guru, the
+        Wish-Fulfilling Jewel'
+      parent: Khenchen Jigme Phuntsok
+    593a5199d42d4ac7956028d1fc759dda:
+      title: Prayer to Khenpo Ngawang Palzang
+      parent: Khenpo Ngawang Palzang
+    0a087394cdfe4101bad5e4dfea327e4e:
+      title: Prayer to Khyentse Wangpo, Kongtrul and Chokgyur Lingpa
+      parent: Khyen Kong Chok Sum
+    fc7f907804f44bf086744382396a2cd8:
+      title: The Foundation of All Qualities
+      parent: Lamrim
+    ee36b9cf6fd5462bb8461eb2fbb6fc90:
+      title: Prayer to Longchenpa (Adapted from the Words of Mipham Rinpoche)
+      parent: Longchen Rabjam
+    4d3113ed456b4a409ca86b057880efbe:
+      title: Prayer to the Omniscient Longchen Rabjam
+      parent: Longchen Rabjam
+    276905b8396d4d3ba738c8fd84f4908c:
+      title: Prayer to My Root Guru, Jamyang Loter Wangpo
+      parent: Loter Wangpo
+    798d7c3013784f73af18ab2eeb06976c:
+      title: Regularly Recitable Prayer to the Root Guru, Loter Wangpo
+      parent: Loter Wangpo
+    3f32531e58ea41f89e3dd3f97d8e1cbb:
+      title: Prayer to Machik Labdrön
+      parent: Machik Labdrön
+    8584a660070e46a5ace9534a06223f3a:
+      title: Magnetizing (Wangdü) Prayer
+      parent: Magnetizing
+    a101fb8c494e4c7aa7938b36d8836a05:
+      title: 'Wangdü: The Great Cloud of Blessings—The Prayer which Magnetizes All
+        that Appears and Exists'
+      parent: Magnetizing
+    b37e3f5c3121435f9bc682ce7f08beea:
+      title: A Prayer to Mañjuśrī
+      parent: Mañjuśrī
+    cf5c0a09f40848fd890f52cbdfbf7892:
+      title: Prayer to Bhagavān Mañjughoṣa
+      parent: Mañjuśrī
+    6682ed0871a14bc692c561b1912bf462:
+      title: Prayer to the Lion of Speech
+      parent: Mañjuśrī
+    3a4089fc420946caa10388d8801aabd8:
+      title: Prayer to Mañjuśrī
+      parent: Mañjuśrī
+    a925ce55d9574b2c8d3ea5fe0af78464:
+      title: A Prayer to Mañjughoṣa
+      parent: Mañjuśrī
+    08ae947143484fee84c2b65749e4a271:
+      title: Prayer to Lord Marpa, Consort and Heirs
+      parent: Marpa
+    b280ada01755486e81ae62286a074c7e:
+      title: 'Song of Devotion: A Prayer to Lord Marpa Lotsāwa'
+      parent: Marpa
+    cb2d81b26a72436a8bd35505c0f2ac37:
+      title: 'The Melody of Complete Accomplishment: A Prayer to Those Praised as
+        Ornaments of the Practice Lineage'
+      parent: Marpa, Milarepa & Gampopa
+    ee47148aef0944aabbdb66387fbe225a:
+      title: Song of Prayer to Milarepa
+      parent: Milarepa
+    61955f93cd2e4a29a0fbe2d41e600a32:
+      title: Supplication to Lord Mila Shepa Dorje
+      parent: Milarepa
+    b1c2e38ef7194310bf5a45505da49f5a:
+      title: 'The Swift Infusion of Blessings: A Lament and Prayer to Invoke the Wisdom
+        Mind of Khenchen Vāgindra on the Occasion of His Passing into the Great Peace
+        of the Dharmadhātu'
+      parent: Ngawang Samten Lodrö
+    60d830d3f83e40b89a681b7d5b9d9200:
+      title: 'The Treasury of Blessings: A Prayer to Recall the Sublime Masters who
+        Showed Great Kindness to the Land of Snows'
+      parent: Nonsectarianism
+    bccdfe6753e74e31b22bb74d1a99cf10:
+      title: Prayer to Nyala Pema Dündul
+      parent: Nyala Pema Dündul
+    7d3e7a78a71e454886ed5b4c11511b52:
+      title: A Prayer to Parṇaśavarī
+      parent: Parṇaśavarī
+    891b7b600c49449783e2d55974cfa683:
+      title: A Prayer to the Goddess Parṇaśavarī
+      parent: Parṇaśavarī
+    003efa8a0fd246ddbc21e3a953ac0682:
+      title: 'Nectar of Lunar Crystal: A Prayer to Orgyen Chökyi Wangpo'
+      parent: Patrul Rinpoche
+    e8163f35c853448b82338fe75da8483b:
+      title: Prayer to Chökyi Wangpo, the Bodhisattva and Tamer of Beings
+      parent: Patrul Rinpoche
+    b9d7ac04694b4e18bb0ff603a81a0df4:
+      title: 'The Beautiful Garland of Uḍumbara Flowers: A Prayer to the Previous
+        Incarnations of Jamyang Khyentse Chökyi Lodrö'
+      parent: Prayers to Previous Incarnations
+    ae04ef3ffceb4c60903cbd3366491214:
+      title: 'The Moon’s Illusory Reflection to Gladden the Devoted: A Prayer to the
+        Successive Rebirths'
+      parent: Prayers to Previous Incarnations
+    358b872d56e7441dbafa06bbc5d07798:
+      title: 'Waves in A Sea of Devotion: A Prayer to the Garland of Zurmang Trungpa
+        Rinpoche Incarnations'
+      parent: Prayers to Previous Incarnations
+    8f1ab8b051374c8cb92096d86eec30c5:
+      title: Prayer to Rigdzin Jigme Lingpa Invoking His Previous Incarnations
+      parent: Prayers to Previous Incarnations
+    5fc97f267b4949e3a035984865c706f0:
+      title: Prayer to the Garland of Rebirths of the Dzogchenpas of Eastern Tibet
+      parent: Prayers to Previous Incarnations
+    b2d4726ed59e437b805afd93187312f1:
+      title: Prayer to the Chain of Rebirths
+      parent: Prayers to Previous Incarnations
+    24ed0a29ea014eb3bd86978817010b75:
+      title: Brief Succession of Lives Prayer
+      parent: Prayers to Previous Incarnations
+    9f836d4c1c2f4f53b8f6d94e919a4f2d:
+      title: Prayer to the Successive Lives of the Great Trulshik 'Destroyer of Delusion'
+      parent: Prayers to Previous Incarnations
+    7199a0d1de774333a0f4e38eacdb747d:
+      title: 'Cloud Banks of Blessings: A Brief Prayer to the Garland of Successive
+        Rebirths'
+      parent: Prayers to Previous Incarnations
+    45fc6c40136145b79882e18cabcdb172:
+      title: 'The Hook of Compassion: A Prayer to the Garland of Successive Rebirths'
+      parent: Prayers to Previous Incarnations
+    a89a87ded8df4a1e8f9b024981a97f3f:
+      title: 'The Lotus of Faith: A Supplication to the Successive Lives of Shechen
+        Rabjam'
+      parent: Prayers to Previous Incarnations
+    a428c455d9124b518907b1b4bcdaf345:
+      title: A Record of the Successive Incarnations
+      parent: Prayers to Previous Incarnations
+    596dbe1a4acb41068f0c1971d3a4036a:
+      title: 'Gateway for the Faithful: A Supplication Recalling the Lives and Liberation
+        of Kyabje Trulshik Rinpoche, Ngawang Chökyi Lodrö'
+      parent: Prayers to Previous Incarnations
+    df16fc2fe04647d9a295db4c297ca3bb:
+      title: Prayer to Pacify Military Conflict
+      parent: Raudracakrin
+    2d43295556c944ed9c7699a7ee0f4a07:
+      title: Prayer to Rendawa Shönnu Lodrö
+      parent: Rendawa Shönnu Lodrö
+    d15abfc0260a426da899f0525809633a:
+      title: Aspiration to Follow the Gurus of the Ngor Tradition
+      parent: Sakya
+    bbfb4a6368914a618fbaf5f4ac7d66f8:
+      title: Prayer to the Supremely Learned Holders of the Glorious Sakya Teachings
+      parent: Sakya
+    9e8ea64a99b04629bd8ce99f88a674eb:
+      title: Prayer to Root and Lineage Masters, and the Assembly of Deity, Ḍākinīs
+        and Dharma Protectors of the Sakya Lineage
+      parent: Sakya
+    bd67caa5ed1e4e59bf3aed6bf574b9ac:
+      title: Prayer to Invoke the Wisdom Mind of the Gentle Protector Sakya Paṇḍita
+      parent: Sakya Paṇḍita
+    280e6bad0e8a4236a80fc61fef0848ff:
+      title: 'The Tree of Awakening: A Prayer to the Great Abbot Śāntarakṣita'
+      parent: Śāntarakṣita
+    c0ad200829024a9e860c772844049c1d:
+      title: Prayer to Sé Pakchok Dorje
+      parent: Sé Pakchok Dorje
+    ff07691e4f004f6a85ef4977575c7dbc:
+      title: A Brief Prayer to Sera Khandro
+      parent: Sera Khandro
+    3a84d5a7786f4c69879a4eda1412da47:
+      title: 'The Shower of Blessings: A Prayer'
+      parent: Shakya Shri
+    0d25f7f35f5e480a95fc8ebf45066886:
+      title: Prayer to Shechen Kongtrul as Vajrasattva
+      parent: Shechen Kongtrul
+    06bd906778724eb2a025878cae68c458:
+      title: Prayer to Smṛtijñānakīrti
+      parent: Smṛtijñānakīrti
+    7fd6a2c758124f21ae4573833a7df02f:
+      title: Prayer to Ārya Tārā
+      parent: Tārā
+    270fd26f81104b5993c7e434bfbd8bb8:
+      title: 'Averting Obstructive Circumstances: A Prayer to Tārā'
+      parent: Tārā
+    5c48d13ad0224cbcbf3b071ec676a52f:
+      title: 'Eliminator of Suffering: A Prayer to the Venerable and Exalted Tārā'
+      parent: Tārā
+    ce819fd03d254e07844d68e7ca94e2c1:
+      title: Prayer to Jetsün Tārā
+      parent: Tārā
+    866d2895d9ae43f0a58aaa33f24ac7a8:
+      title: Prayer to Tārā, Combined with Her Mantra
+      parent: Tārā
+    66bac93e4ff94045a6ba483466fc0737:
+      title: A Supplication to Noble Tārā, The Wish-Fulfilling Cornucopia
+      parent: Tārā
+    aa93268af70e456a888e788a91ba0d5b:
+      title: Prayer to Thangtong Gyalpo
+      parent: Thangtong Gyalpo
+    f82e5e47a9f444beaac1ebcc793d0fe0:
+      title: 'Great Drum of the Devas: A Prayer to the Dharma King Tri Songdetsen'
+      parent: Tri Songdetsen
+    2fb40f7866074a0abdab7350dab5a209:
+      title: Prayer to Tsarchen Losal Gyatso
+      parent: Tsarchen Losal Gyatso
+    1cb6fe15a2414177b8ff588200695848:
+      title: 'The Revelling Ocean of Blessings: A Prayer to Tsarchen Dorje Chang'
+      parent: Tsarchen Losal Gyatso
+    62ebaca1ab3c4ac38ef748c35056ad48:
+      title: 'The Falling Rain of Blessings: A Prayer of Inspiration'
+      parent: Vajrakīla
+    ead6abefe5804c008d5e921f877bcd93:
+      title: The Summoning of Blessings which Brings them Swift and Fast
+      parent: Vajrakīla
+    a510938aabba431f9c3a6c4c748fef7a:
+      title: Prayer to the Great Paṇḍita Vimalamitra
+      parent: Vimalamitra
+    21be30a15c3142c383e5b07f84d217a2:
+      title: Prayer to the Siddha Virūpa
+      parent: Virūpa
+    c76d886fe55944d784dd79ba71beac9a:
+      title: A Prayer to Yumka Tsogyal
+      parent: Yeshe Tsogyal
+    ab20180292bb4a09b75092b213dff338:
+      title: A Prayer to Khandro Yeshé Tsogyal
+      parent: Yeshe Tsogyal
+    b4960fd2b10945368ddd8e53e2752796:
+      title: A Prayer to Lady Yeshe Tsogyal, the Mother
+      parent: Yeshe Tsogyal
+    46ef7a6257654e49bf14162ec2d87981:
+      title: Prayer to Yeshe Tsogyal
+      parent: Yeshe Tsogyal
+    c10d086a50da49b8aa4044ee5e2f24c5:
+      title: The Seeds of Faith, A Prayer to the Vidyādhara and Great Tertön Lerab
+        Lingpa
+      parent: Tertön Sogyal
+created_at: '2022-03-01T05:22:36.715482'
+last_modified_at: '2022-03-01T05:22:36.715485'
